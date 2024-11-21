@@ -16,6 +16,8 @@ To deploy this project to Gitpod, follow these steps:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/dabit3/decentralized-identity-example)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/dabit3/decentralized-identity-example)
+
 #### Local development
 
 To get up and running with this project:
